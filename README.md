@@ -6,7 +6,10 @@
 
 - 🔭 Estudando para ser um dev front-end.
 - 🌱 Aprendendo: HTML, CSS e JavaScript.
-- 👯 Ferramentas: Github e Visual Studio Code
+- 👯 Ferramentas: Github e Visual Studio Code.
+- 🎬 Apresento meus projetos no <a href="https://www.youtube.com/channel/UC8VNokc61_DddpmwAu-7B6Q">Youtube</a>.
+<br>
+<br>
 
 ##
 
