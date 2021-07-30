@@ -1,4 +1,4 @@
-<img src = "github/logo.png" width="270px" align = "right">
+<img src = "github/logo.png" width="250px" align = "right">
 
 
 ### Aobaa! Eu sou Eithor Ribeiro
